@@ -38,8 +38,9 @@ header {
 }
 
 .card img {
-    width: 100%;
+    width: 40%;
     height: auto;
+    border-radius: 20PX;
 }
 
 .card h2 {
